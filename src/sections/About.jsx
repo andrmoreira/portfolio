@@ -8,11 +8,7 @@ function About()
             <h2 className={styles.title}>Sobre Mim</h2>
             <div className={styles.aboutContent}>
                 <p>
-                    Sou um desenvolvedor focado em Engenharia de Software e Sistemas, transitando 
-                    entre a construção de aplicações web escaláveis no ecossistema Full-Stack e o 
-                    desenvolvimento de baixo nível. Minha paixão está onde o software encontra o hardware. 
-                    Acredito que dominar o que acontece abaixo das camadas de abstração é o único caminho 
-                    para construir arquiteturas eficientes, transformando conceitos complexos de computação em software de alta performance de verdade.
+                    Sou desenvolvedor de software. Construo aplicações web escaláveis no full-stack e também trabalho em baixo nível. Gosto de entender como o software roda no hardware, porque é isso que gera performance de verdade. Contribuo com open source.
                 </p>
             </div>
         </section>
