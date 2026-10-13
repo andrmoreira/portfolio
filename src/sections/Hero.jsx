@@ -13,7 +13,7 @@ function Hero() {
                     <a href="https://www.linkedin.com/in/andr%C3%A9-moreira-940886233/">
                         <FaLinkedin />
                     </a>
-                    <a href="https://github.com/Andrezinrc">
+                    <a href="https://github.com/andrmoreira">
                         <FaGithub />
                     </a>
                 </div>
